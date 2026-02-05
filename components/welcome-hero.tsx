@@ -9,7 +9,6 @@ import photo3 from '../public/photo3.jpeg'
 import photo4 from '../public/photo7.jpeg'
 import photo5 from '../public/photo10.jpeg'
 import photo6 from '../public/WhatsApp Image 2026-02-05 at 06.22.16.jpeg'
-
 import Image from "next/image"
 
 const photos = [
