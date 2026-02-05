@@ -76,10 +76,10 @@ export function WelcomeHero() {
                     <div className="text-center p-4">
                       <HeartIcon className="w-10 h-10 text-primary/40 mx-auto mb-2" />
                       
-                      <p className="text-xs text-muted-foreground/60 mt-1">
-                        Add her photo here
+                      
+                      
                         <Image src={photo.placeholder} alt={"My lovely girlfriend"}/>
-                      </p>
+                    
                     </div>
                   </div>
                   
